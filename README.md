@@ -1,3 +1,13 @@
+# Possible updates/upgrades (i.e. 4.1) 
+ - Change both bearing to be widely available bearings (i.e. 608s)
+ - Change locking pin to have a small raised section for a handle/finger grab to make easier to lift out
+ - Look into having bump out on the outside lip for the locking pin to rest on while in use.
+ - Add captive holes on the locking pin and it's receptical for small magnets.
+ - Look into having the locking pin have a top lip extruded out to hold the funnel for storage.
+   - This could possibly be used to lift the locking pin out also.
+
+
+
 # Manual PnP Turntable V3
 
 This Manual PnP Turntable is the latest version of my components storage & assembly turntable I initially designed way back in 2019!
